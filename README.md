@@ -37,7 +37,7 @@ Want to help? that would be cool.
 To install ungzip the tar file under /usr/local/
 go into the created directory.
 Run install with sudo.
-and follow the instructions.
+and follow the instructions, the program will install in /usr/local/bin/mark_dir
 I reccommend you persuse the file and get acquainted with the code first.
 
 
